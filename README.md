@@ -108,6 +108,8 @@
 <a href="https://www.linkedin.com/in/ayush"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 <a href="https://github.com/AyushKumar2023"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 <a href="mailto:ayushamber02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.instagram.com/amberayush_23/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://x.com/AmberAyush?t=xBc5KQKEU0w0WuEunJsLzg&s=09"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
 </p>
 
 ---
