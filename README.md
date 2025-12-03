@@ -105,12 +105,28 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://github.com/AyushKumar2023"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="mailto:ayushamber02@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-<a href="https://www.instagram.com/amberayush_23/"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://x.com/AmberAyush?t=xBc5KQKEU0w0WuEunJsLzg&s=09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="40"/></a>
+<a href="https://www.linkedin.com/in/ayush">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://github.com/AyushKumar2023">
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="mailto:ayushamber02@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://www.instagram.com/amberayush_23/">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
+<!-- NEW, CLEAN X LOGO -->
+<a href="https://x.com/AmberAyush?t=xBc5KQKEU0w0WuEunJsLzg&s=09">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40" />
+</a>
 </p>
+
 
 ---
 
