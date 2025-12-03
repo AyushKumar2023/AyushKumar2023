@@ -105,7 +105,7 @@
 
 ## 🔗 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ayush">
+<a href="https://www.linkedin.com/in/ayushkumar2023/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
